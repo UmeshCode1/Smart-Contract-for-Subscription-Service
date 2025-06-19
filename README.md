@@ -2,61 +2,65 @@
 
 ## 📜 Overview
 
-A decentralized **Ethereum smart contract** built by **Umesh Patel** for managing **subscription-based services** without third-party interference. Users subscribe with a fixed ETH fee, and the contract takes care of **subscription tracking**, **fund storage**, and **ownership rights** — all transparently, immutably, and securely.
+A decentralized **Ethereum smart contract** built to power **subscription-based services** with zero reliance on intermediaries. Users pay a fixed ETH fee to subscribe, and the contract automatically handles **duration tracking**, **fund locking**, and **secure withdrawal rights** — all on the blockchain.
+
+---
+
+## 🎓 About the Project
+
+This project is developed as a blockchain research and development initiative by a student of:
+
+> **Oriental College of Technology, Bhopal, Madhya Pradesh, India**  
+> Department of Artificial Intelligence & Machine Learning (AIML)
 
 ---
 
 ## 🚀 Vision
 
-> _“Automate trust. Eliminate intermediaries. Code the future.”_  
-> — **Umesh Patel**
+> _“Automate trust. Eliminate intermediaries. Code the future.”_
 
-This contract is a leap toward **autonomous digital subscriptions**, where code replaces traditional systems — unlocking **fairness**, **transparency**, and **global access** through blockchain.
+This smart contract reimagines the way digital subscriptions work — making them **transparent**, **tamper-proof**, and **globally accessible** through blockchain.
 
 ---
 
 ## ✨ Key Features
 
 - 🔐 **Secure ETH Transactions**  
-- 🕒 **Time-Tracked Subscriptions**  
+- ⏱️ **Automated Time-Based Subscriptions**  
 - 👑 **Owner-Only Withdrawals**  
-- 🌐 **Open to All Ethereum Users**  
-- ⚡ **Gas-Efficient Smart Logic**
+- 🌍 **Open Access via Web3 Wallets**  
+- ⚡ **Lightweight & Gas Optimized**
 
 ---
 
-## 🔮 Future Upgrades
+## 🔮 Future Roadmap
 
-Coming soon (or in your fork 😎):
-
-- 🔁 **Auto-Renewal Functionality**  
-- 📊 **Tiered Plans (e.g., Basic, Pro, Premium)**  
-- 📡 **Oracle Integration (Chainlink, etc.)**  
-- 🔔 **Push Notifications for Renewal Alerts**  
-- 🎁 **Loyalty Points / Referral Rewards System**  
+- 🔁 **Auto-Renewals** based on blockchain timers  
+- 📊 **Tiered Pricing Models** (e.g., Basic / Premium / Enterprise)  
+- 🔗 **Chainlink Oracle Integration**  
+- 🔔 **Push Notifications / Email Alerts**  
+- 🎁 **Loyalty Programs & Referral Rewards**
 
 ---
 
 ## 🧾 Deployment Details
 
-- **👨‍💻 Developer:** Umesh Patel  
-- **📫 GitHub:** [@UmeshCode1](https://github.com/UmeshCode1)  
-- **🪙 Contract Address:** `0x22a1562bbf2712c814e5bee30f1a9c3326a378be`  
-- **🔁 Transaction Hash:** `0x59f4665070cce4ec7be9d3ce91cf0ded51365a34a9e967a247a3c0bf3db9fcab`  
-- **🧪 Network:** Sepolia Testnet  
-- **🔧 Platform:** [Remix Ethereum IDE](https://remix.ethereum.org)
+- **Contract Address:** `0x22a1562bbf2712c814e5bee30f1a9c3326a378be`  
+- **Transaction Hash:** `0x59f4665070cce4ec7be9d3ce91cf0ded51365a34a9e967a247a3c0bf3db9fcab`  
+- **Network:** Sepolia Testnet  
+- **IDE:** [Remix Ethereum IDE](https://remix.ethereum.org)
 
 ---
 
-## 🧪 How to Use (For Testnet)
+## 🧪 How to Use (Sepolia Testnet)
 
 1. Open [Remix](https://remix.ethereum.org) and connect your MetaMask wallet  
-2. Ensure you’re on the **Sepolia Testnet**  
-3. Fund your wallet from a [Sepolia Faucet](https://sepoliafaucet.com/)  
-4. Interact with:
-   - `subscribe()` to activate a subscription
-   - `withdraw()` (owner-only) to collect funds  
-5. Subscription details are logged with a timestamp and wallet address  
+2. Switch to the **Sepolia Testnet**  
+3. Get Sepolia ETH from [this faucet](https://sepoliafaucet.com/)  
+4. Deploy or interact with:
+   - `subscribe()` to activate your subscription
+   - `withdraw()` (only owner) to withdraw accumulated ETH  
+5. Each subscriber is tracked with an on-chain timestamp
 
 ---
 
@@ -70,23 +74,29 @@ Coming soon (or in your fork 😎):
 
 ## ⚙️ Tech Stack
 
-| Component     | Tool                         |
-|---------------|------------------------------|
-| Language      | Solidity `^0.8.0`            |
-| Blockchain    | Ethereum (Sepolia Testnet)   |
-| IDE           | Remix Ethereum IDE           |
-| Wallet        | MetaMask                     |
-| Explorer      | Etherscan                    |
+| Layer        | Technology                  |
+|--------------|------------------------------|
+| Language     | Solidity `^0.8.0`            |
+| Blockchain   | Ethereum (Sepolia Testnet)   |
+| IDE          | Remix Ethereum IDE           |
+| Wallet       | MetaMask                     |
+| Explorer     | Etherscan                    |
 
 ---
 
 ## 📘 License
 
-Released under the **MIT License** — open-source and free to use, adapt, and improve.
+This project is released under the **MIT License** — open for use, contribution, and improvement.
 
 ---
 
-## 🤝 Let’s Connect
+## 👨‍💻 Developer Profile
+
+**Umesh Patel**  
+
+🎓 **College:** Oriental College of Technology, Bhopal  
+💡 **Focus Areas:** Smart Contracts, AI/ML, Blockchain Systems, Future Tech  
+🌍 **From:** Bhopal, Madhya Pradesh, India  
 
 - 🔗 **LinkedIn:** [Umesh Patel](https://www.linkedin.com/in/umesh-patel-5647b42a4)  
 - 🌐 **GitHub:** [@UmeshCode1](https://github.com/UmeshCode1)  
@@ -94,5 +104,5 @@ Released under the **MIT License** — open-source and free to use, adapt, and i
 
 ---
 
-> 🚀 _“Smart contracts aren't just about automation — they’re about creating systems that no one has to trust blindly.”_  
+> 🚀 _“Smart contracts aren't just about automation — they’re about building systems that nobody has to trust blindly.”_  
 > — **Umesh Patel**
